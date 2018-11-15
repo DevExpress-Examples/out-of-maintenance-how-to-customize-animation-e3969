@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/XtraGauge_Animation/Form1.cs) (VB: [Form1.vb](./VB/XtraGauge_Animation/Form1.vb))
+<!-- default file list end -->
 # How to customize animation
 
 
